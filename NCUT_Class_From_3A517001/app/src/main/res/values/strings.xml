@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NCUT_Class_From_3A517001</string>
+    <string name="buy">請購票!(請先填數量)</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="amount1">數量:</string>
+    <string name="sale_180">優待票 $180</string>
+    <string name="student_230">學生票 $230</string>
+    <string name="ironSuperMan">鋼鐵人大戰超人</string>
+    <string name="adult_180">成人票 $280</string>
+    <string name="amount2">數量:</string>
+    <string name="amount3">數量:</string>
+    <string name="captainBatMan">隊長大戰蝙蝠俠</string>
+    <string name="zero">0</string>
+
+</resources>

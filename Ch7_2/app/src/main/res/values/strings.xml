@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ch7_2</string>
+    <string name="menu_left">上一頁</string>
+    <string name="menu_right">下一頁</string>
+    <string name="menu_toC">轉攝氏</string>
+    <string name="menu_toF">轉華氏</string>
+    <string name="string_shtemp">輸入溫度：</string>
+</resources>

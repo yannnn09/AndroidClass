@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ch6_8</string>
+    <string-array name="sports">
+        <item>walk</item>
+        <item>swim</item>
+        <item>pingpong</item>
+        <item>batminton</item>
+        <item>tennis</item>
+        <item>bike</item>
+    </string-array>
+</resources>

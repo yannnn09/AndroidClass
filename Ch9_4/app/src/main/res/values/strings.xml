@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ch9_4</string>
+    <string name="activities_browser">start browser</string>
+    <string name="activities_map">start map</string>
+    <string name="sendmail">SendMail</string>
+    <string name="websearch">WebSearch</string>
+    <string name="activities_contact">activities contact</string>
+    <string name="phonecall">PhoneCall</string>
+</resources>

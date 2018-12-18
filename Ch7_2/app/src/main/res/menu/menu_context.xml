@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cmenu_red"
+        android:title="紅色背景" />
+    <item
+        android:id="@+id/cmenu_green"
+        android:title="綠色背景" />
+    <item
+        android:id="@+id/cmenu_blue"
+        android:title="藍色背景" />
+</menu>

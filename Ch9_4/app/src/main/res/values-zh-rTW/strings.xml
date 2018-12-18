@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ch9_4</string>
+    <string name="activities_contact">選取連絡人</string>
+    <string name="phonecall">打電話</string>
+    <string name="sendmail">傳送電子郵件</string>
+    <string name="activities_browser">啟動瀏覽器</string>
+    <string name="activities_map">啟動地圖</string>
+    <string name="websearch">搜尋關鍵字</string>
+</resources>

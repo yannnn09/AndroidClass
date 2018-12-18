@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ch6_9</string>
+    <string-array name="menuItem">
+        <item>hamburger</item>
+        <item>fries</item>
+        <item>cola</item>
+        <item>soup</item>
+    </string-array>
+</resources>

@@ -1,0 +1,2 @@
+﻿this is a book
+讀取raw資料
